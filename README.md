@@ -1,1 +1,1 @@
-# BSU-labs
+# BSU-OS-labs
